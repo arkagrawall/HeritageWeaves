@@ -1,0 +1,10 @@
+**Developed by Ark agrawal - Greenfields Public School - http://arkagrawal.ml **
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+
+**Admin Login Details**
+
+Email   : haywire@demo.com
+Password: haywire6.0
